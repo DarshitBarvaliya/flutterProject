@@ -31,14 +31,14 @@ class Screen3 extends StatelessWidget {
           Padding(
             padding: EdgeInsets.only(top: 63.h, left: 20.w),
             child: Container(
-              // child: Text(
-              //   "Chat and post with\n other fans",
-              //   textAlign: TextAlign.center,
-              //   style: TextStyle(
-              //       fontSize: 26,
-              //       fontWeight: FontWeight.w700,
-              //       color: Colors.white),
-              // ),
+              child: Text(
+                "Chat and post with\n other fans",
+                textAlign: TextAlign.center,
+                style: TextStyle(
+                    fontSize: 26,
+                    fontWeight: FontWeight.w700,
+                    color: Colors.white),
+              ),
             ),
           ),
           Padding(

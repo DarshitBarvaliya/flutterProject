@@ -31,14 +31,14 @@ class Screen2 extends StatelessWidget {
           Padding(
             padding: EdgeInsets.only(top: 63.h, left: 20.w),
             child: Container(
-              // child: Text(
-              //   "Follow your favourite\n sports teams",
-              //   textAlign: TextAlign.center,
-              //   style: TextStyle(
-              //       fontSize: 26,
-              //       fontWeight: FontWeight.w700,
-              //       color: Colors.white),
-              // ),
+              child: Text(
+                "Follow your favourite\n sports teams",
+                textAlign: TextAlign.center,
+                style: TextStyle(
+                    fontSize: 26,
+                    fontWeight: FontWeight.w700,
+                    color: Colors.white),
+              ),
             ),
           ),
           Padding(
